@@ -13,9 +13,10 @@ This repositry is for saving collection of papers related to computer vision (CV
   
 - RGB-D based methods
   1. [SegICP: Integrated Deep Semantic Segmentation and Pose Estimation](https://arxiv.org/pdf/1703.01661.pdf)
-  2. [DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion](https://arxiv.org/pdf/1901.04780.pdf)
-  3. [PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation](https://arxiv.org/pdf/1911.04231.pdf)
-  4. [MaskUKF: An Instance Segmentation Aided Unscented Kalman Filter for 6D Object Pose and Velocity Tracking](https://www.frontiersin.org/articles/10.3389/frobt.2021.594583/full)
+  2. [Going Further with Point Pair Features](https://arxiv.org/pdf/1711.04061.pdf)
+  3. [DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion](https://arxiv.org/pdf/1901.04780.pdf)
+  4. [PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation](https://arxiv.org/pdf/1911.04231.pdf)
+  5. [MaskUKF: An Instance Segmentation Aided Unscented Kalman Filter for 6D Object Pose and Velocity Tracking](https://www.frontiersin.org/articles/10.3389/frobt.2021.594583/full)
   
 **6D Grasp Pose Detection**
   1. [6-DOF GraspNet: Variational Grasp Generation for Object Manipulation](https://arxiv.org/pdf/1905.10520.pdf)
