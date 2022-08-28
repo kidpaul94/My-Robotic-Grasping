@@ -44,7 +44,7 @@ This repositry is for saving collection of papers related to computer vision (CV
   
 - Survey
     1. [Robotic Grasping from Classical to Modern: A Survey](https://arxiv.org/pdf/2202.03631.pdf)
-    2. [https://arxiv.org/pdf/2207.02556.pdf](https://arxiv.org/pdf/2207.02556.pdf)
+    2. [Deep Learning Approaches to Grasp Synthesis: A Review](https://arxiv.org/pdf/2207.02556.pdf)
     3. [Vision‑based robotic grasping from object localization, object pose estimation to grasp estimation for parallel grippers: a review](https://link.springer.com/content/pdf/10.1007/s10462-020-09888-5.pdf)
   
 **ToDo Lists**
