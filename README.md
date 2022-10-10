@@ -1,5 +1,5 @@
 # 6DOF Robot Grasping
-This repositry is for saving collection of papers related to computer vision (CV) & geometry based 6DOF robot grasping. We only collect methods using RGB/RGB-D with Deep Learning. The list below will be updated in regular basis.
+This repositry is for saving collection of papers related to computer vision (CV) & geometry based 6DOF robot grasping. We only collect methods using RGB/RGB-D with Deep Learning. Note that grasp pose detection related papers are **ROUGHLY** divided based on their approaches. The list below will be updated in regular basis. 
 
 **Object 6D Pose Estimation**
 
