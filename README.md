@@ -45,7 +45,8 @@ This repositry is for saving collection of papers related to computer vision (CV
     4. [Simultaneous Semantic and Collision Learning for 6-DoF Grasp Pose Estimation](https://arxiv.org/pdf/2108.02425.pdf)
 
 - Regression methods
-    1. [Synergies Between Affordance and Geometry: 6-DoF Grasp Detection via Implicit Representations](https://arxiv.org/pdf/2104.01542.pdf)
+    1. [S4G: Amodal Single-view Single-Shot SE(3) Grasp Detection in Cluttered Scenes](https://arxiv.org/pdf/1910.14218.pdf)
+    2. [Synergies Between Affordance and Geometry: 6-DoF Grasp Detection via Implicit Representations](https://arxiv.org/pdf/2104.01542.pdf)
     
 - Survey
     1. [Robotic Grasping from Classical to Modern: A Survey](https://arxiv.org/pdf/2202.03631.pdf)
