@@ -32,6 +32,8 @@ This repositry is for saving collection of papers related to computer vision (CV
     7. [Graspness Discovery in Clutters for Fast and Accurate Grasp Detection](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Graspness_Discovery_in_Clutters_for_Fast_and_Accurate_Grasp_Detection_ICCV_2021_paper.pdf)
     8. [Efficient and Accurate Candidate Generation for Grasp Pose Detection in SE(3)](https://arxiv.org/pdf/2204.01131.pdf)
     9. [REGNet: REgion-based Grasp Network for End-to-end Grasp Detection in Point Clouds](https://arxiv.org/pdf/2002.12647.pdf)
+    10. [Hybrid Physical Metric For 6-DoF Grasp Pose Detection](https://arxiv.org/pdf/2206.11141.pdf)
+    
     
 - Reconstruction focused methods
     1. [Robotic Grasping through Combined Image-Based Grasp Proposal and 3D Reconstruction](https://arxiv.org/pdf/2003.01649.pdf)
