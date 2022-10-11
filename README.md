@@ -55,8 +55,9 @@ This repositry is for saving collection of papers related to computer vision (CV
 
 **Grasp Quality Metrics**
 
-- Comparison
+- Combined metrics
     1. [Characterisation of Grasp Quality Metrics](http://repositori.uji.es/xmlui/bitstream/handle/10234/168278/rubert_2017.pdf;jsessionid=20C8040BDAD3A1F806E56730E54A5FB9?sequence=1)
+    2. [Grasp success prediction with quality metrics](https://arxiv.org/pdf/1809.03276v1.pdf)
 
 **ToDo Lists**
 - [x] Divide subsection for different approaches in *6D Grasp Pose Detection*
