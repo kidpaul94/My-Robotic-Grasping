@@ -52,6 +52,11 @@ This repositry is for saving collection of papers related to computer vision (CV
     1. [Robotic Grasping from Classical to Modern: A Survey](https://arxiv.org/pdf/2202.03631.pdf)
     2. [Deep Learning Approaches to Grasp Synthesis: A Review](https://arxiv.org/pdf/2207.02556.pdf)
     3. [Vision‑based robotic grasping from object localization, object pose estimation to grasp estimation for parallel grippers: a review](https://link.springer.com/content/pdf/10.1007/s10462-020-09888-5.pdf)
-  
+
+**Grasp Quality Metrics**
+
+- Comparison
+    1. [Characterisation of Grasp Quality Metrics](http://repositori.uji.es/xmlui/bitstream/handle/10234/168278/rubert_2017.pdf;jsessionid=20C8040BDAD3A1F806E56730E54A5FB9?sequence=1)
+
 **ToDo Lists**
 - [x] Divide subsection for different approaches in *6D Grasp Pose Detection*
