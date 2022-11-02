@@ -10,8 +10,9 @@ This repositry is for saving collection of papers related to computer vision (CV
   4. [Augmented Autoencoders: Implicit 3D Orientation Learning for 6D Object Detection](https://arxiv.org/pdf/1902.01275v2.pdf)
   5. [Pix2Pose: Pixel-Wise Coordinate Regression of Objects for 6D Pose Estimation](https://arxiv.org/pdf/1908.07433v1.pdf)
   6. [DPOD: 6D Pose Object Detector and Refiner](https://arxiv.org/pdf/1902.11020v3.pdf)
-  7. [HybridPose: 6D Object Pose Estimation under Hybrid Representations](https://arxiv.org/pdf/2001.01869.pdf)
-  8. [EfficientPose: An efficient, accurate and scalable end-to-end 6D multi object pose estimation approach](https://arxiv.org/pdf/2011.04307v2.pdf)
+  7. [EPOS: Estimating 6D Pose of Objects with Symmetries](https://arxiv.org/pdf/2004.00605v1.pdf)
+  8. [HybridPose: 6D Object Pose Estimation under Hybrid Representations](https://arxiv.org/pdf/2001.01869.pdf)
+  9. [EfficientPose: An efficient, accurate and scalable end-to-end 6D multi object pose estimation approach](https://arxiv.org/pdf/2011.04307v2.pdf)
   
 - RGB-D based methods
   1. [SegICP: Integrated Deep Semantic Segmentation and Pose Estimation](https://arxiv.org/pdf/1703.01661.pdf)
