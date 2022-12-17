@@ -4,64 +4,67 @@ This repositry is for saving collection of papers related to computer vision (CV
 **6D Object Pose Estimation**
 
 - RGB based methods
-  1. [PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes](https://arxiv.org/pdf/1711.00199.pdf)
-  2. [SSD-6D: Making RGB-Based 3D Detection and 6D Pose Estimation Great Again](https://arxiv.org/pdf/1711.10006v1.pdf)
-  3. [PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation](https://arxiv.org/pdf/1812.11788.pdf)
-  4. [Augmented Autoencoders: Implicit 3D Orientation Learning for 6D Object Detection](https://arxiv.org/pdf/1902.01275v2.pdf)
-  5. [Pix2Pose: Pixel-Wise Coordinate Regression of Objects for 6D Pose Estimation](https://arxiv.org/pdf/1908.07433v1.pdf)
-  6. [DPOD: 6D Pose Object Detector and Refiner](https://arxiv.org/pdf/1902.11020v3.pdf)
-  7. [EPOS: Estimating 6D Pose of Objects with Symmetries](https://arxiv.org/pdf/2004.00605v1.pdf)
-  8. [HybridPose: 6D Object Pose Estimation under Hybrid Representations](https://arxiv.org/pdf/2001.01869.pdf)
-  9. [EfficientPose: An efficient, accurate and scalable end-to-end 6D multi object pose estimation approach](https://arxiv.org/pdf/2011.04307v2.pdf)
+  - [PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes](https://arxiv.org/pdf/1711.00199.pdf)
+  - [SSD-6D: Making RGB-Based 3D Detection and 6D Pose Estimation Great Again](https://arxiv.org/pdf/1711.10006v1.pdf)
+  - [PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation](https://arxiv.org/pdf/1812.11788.pdf)
+  - [Augmented Autoencoders: Implicit 3D Orientation Learning for 6D Object Detection](https://arxiv.org/pdf/1902.01275v2.pdf)
+  - [Pix2Pose: Pixel-Wise Coordinate Regression of Objects for 6D Pose Estimation](https://arxiv.org/pdf/1908.07433v1.pdf)
+  - [DPOD: 6D Pose Object Detector and Refiner](https://arxiv.org/pdf/1902.11020v3.pdf)
+  - [EPOS: Estimating 6D Pose of Objects with Symmetries](https://arxiv.org/pdf/2004.00605v1.pdf)
+  - [HybridPose: 6D Object Pose Estimation under Hybrid Representations](https://arxiv.org/pdf/2001.01869.pdf)
+  - [EfficientPose: An efficient, accurate and scalable end-to-end 6D multi object pose estimation approach](https://arxiv.org/pdf/2011.04307v2.pdf)
   
 - RGB-D based methods
-  1. [SegICP: Integrated Deep Semantic Segmentation and Pose Estimation](https://arxiv.org/pdf/1703.01661.pdf)
-  2. [Drost-PPF: Going Further with Point Pair Features](https://arxiv.org/pdf/1711.04061.pdf)
-  3. [DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion](https://arxiv.org/pdf/1901.04780.pdf)
-  4. [PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation](https://arxiv.org/pdf/1911.04231.pdf)
-  5. [MaskUKF: An Instance Segmentation Aided Unscented Kalman Filter for 6D Object Pose and Velocity Tracking](https://www.frontiersin.org/articles/10.3389/frobt.2021.594583/full)
-  6. [FFB6D: A Full Flow Bidirectional Fusion Network for 6D Pose Estimation](https://arxiv.org/pdf/2103.02242.pdf)
-  7. [Unseen Object 6D Pose Estimation: A Benchmark and Baselines](https://arxiv.org/pdf/2206.11808.pdf)
-  8. [SO(3)-Pose: SO(3)-Equivariance Learning for 6D Object Pose Estimation](https://arxiv.org/pdf/2208.08338v1.pdf)
+  - [SegICP: Integrated Deep Semantic Segmentation and Pose Estimation](https://arxiv.org/pdf/1703.01661.pdf)
+  - [Drost-PPF: Going Further with Point Pair Features](https://arxiv.org/pdf/1711.04061.pdf)
+  - [DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion](https://arxiv.org/pdf/1901.04780.pdf)
+  - [PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation](https://arxiv.org/pdf/1911.04231.pdf)
+  - [MaskUKF: An Instance Segmentation Aided Unscented Kalman Filter for 6D Object Pose and Velocity Tracking](https://www.frontiersin.org/articles/10.3389/frobt.2021.594583/full)
+  - [FFB6D: A Full Flow Bidirectional Fusion Network for 6D Pose Estimation](https://arxiv.org/pdf/2103.02242.pdf)
+  - [Unseen Object 6D Pose Estimation: A Benchmark and Baselines](https://arxiv.org/pdf/2206.11808.pdf)
+  - [SO(3)-Pose: SO(3)-Equivariance Learning for 6D Object Pose Estimation](https://arxiv.org/pdf/2208.08338v1.pdf)
+  
+- Datasets
+  - [BOP: Benchmark for 6D Object Pose Estimation](https://bop.felk.cvut.cz/datasets/)
   
 **6D Grasp Pose Detection**
 
 - Sampler focused methods
-    1. [6-DOF GraspNet: Variational Grasp Generation for Object Manipulation](https://arxiv.org/pdf/1905.10520.pdf)
-    2. [6-DOF Grasping for Target-driven Object Manipulation in Clutter](https://arxiv.org/pdf/1912.03628.pdf)
-    3. [GraspNet-1Billion: A Large-Scale Benchmark for General Object Grasping](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fang_GraspNet-1Billion_A_Large-Scale_Benchmark_for_General_Object_Grasping_CVPR_2020_paper.pdf)
-    4. [Volumetric Grasping Network: Real-time 6 DOF Grasp Detection in Clutter](https://arxiv.org/pdf/2101.01132.pdf)
-    5. [Contact-GraspNet: Efficient 6-DoF Grasp Generation in Cluttered Scenes](https://arxiv.org/pdf/2103.14127.pdf)
-    6. [RGB Matters: Learning 7-DoF Grasp Poses on Monocular RGBD Images](https://arxiv.org/pdf/2103.02184.pdf)
-    7. [Graspness Discovery in Clutters for Fast and Accurate Grasp Detection](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Graspness_Discovery_in_Clutters_for_Fast_and_Accurate_Grasp_Detection_ICCV_2021_paper.pdf)
-    8. [Efficient and Accurate Candidate Generation for Grasp Pose Detection in SE(3)](https://arxiv.org/pdf/2204.01131.pdf)
-    9. [REGNet: REgion-based Grasp Network for End-to-end Grasp Detection in Point Clouds](https://arxiv.org/pdf/2002.12647.pdf)
-    10. [Hybrid Physical Metric For 6-DoF Grasp Pose Detection](https://arxiv.org/pdf/2206.11141.pdf)
+    - [6-DOF GraspNet: Variational Grasp Generation for Object Manipulation](https://arxiv.org/pdf/1905.10520.pdf)
+    - [6-DOF Grasping for Target-driven Object Manipulation in Clutter](https://arxiv.org/pdf/1912.03628.pdf)
+    - [GraspNet-1Billion: A Large-Scale Benchmark for General Object Grasping](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fang_GraspNet-1Billion_A_Large-Scale_Benchmark_for_General_Object_Grasping_CVPR_2020_paper.pdf)
+    - [Volumetric Grasping Network: Real-time 6 DOF Grasp Detection in Clutter](https://arxiv.org/pdf/2101.01132.pdf)
+    - [Contact-GraspNet: Efficient 6-DoF Grasp Generation in Cluttered Scenes](https://arxiv.org/pdf/2103.14127.pdf)
+    - [RGB Matters: Learning 7-DoF Grasp Poses on Monocular RGBD Images](https://arxiv.org/pdf/2103.02184.pdf)
+    - [Graspness Discovery in Clutters for Fast and Accurate Grasp Detection](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Graspness_Discovery_in_Clutters_for_Fast_and_Accurate_Grasp_Detection_ICCV_2021_paper.pdf)
+    - [Efficient and Accurate Candidate Generation for Grasp Pose Detection in SE(3)](https://arxiv.org/pdf/2204.01131.pdf)
+    - [REGNet: REgion-based Grasp Network for End-to-end Grasp Detection in Point Clouds](https://arxiv.org/pdf/2002.12647.pdf)
+    - [Hybrid Physical Metric For 6-DoF Grasp Pose Detection](https://arxiv.org/pdf/2206.11141.pdf)
     
     
 - Reconstruction focused methods
-    1. [Robotic Grasping through Combined Image-Based Grasp Proposal and 3D Reconstruction](https://arxiv.org/pdf/2003.01649.pdf)
+    - [Robotic Grasping through Combined Image-Based Grasp Proposal and 3D Reconstruction](https://arxiv.org/pdf/2003.01649.pdf)
 
 - Discriminater focused methods
-    1. [PointNetGPD: Detecting Grasp Configurations from Point Sets](https://web.cs.ucla.edu/~xm/file/pointnetgpd_icra19.pdf)
-    2. [Collision-Aware Target-Driven Object Grasping in Constrained Environments](https://arxiv.org/pdf/2104.00776.pdf)
-    3. [GPR: Grasp Pose Refinement Network for Cluttered Scenes](https://arxiv.org/pdf/2105.08502.pdf)
-    4. [Simultaneous Semantic and Collision Learning for 6-DoF Grasp Pose Estimation](https://arxiv.org/pdf/2108.02425.pdf)
+    - [PointNetGPD: Detecting Grasp Configurations from Point Sets](https://web.cs.ucla.edu/~xm/file/pointnetgpd_icra19.pdf)
+    - [Collision-Aware Target-Driven Object Grasping in Constrained Environments](https://arxiv.org/pdf/2104.00776.pdf)
+    - [GPR: Grasp Pose Refinement Network for Cluttered Scenes](https://arxiv.org/pdf/2105.08502.pdf)
+    - [Simultaneous Semantic and Collision Learning for 6-DoF Grasp Pose Estimation](https://arxiv.org/pdf/2108.02425.pdf)
 
 - Regression methods
-    1. [S4G: Amodal Single-view Single-Shot SE(3) Grasp Detection in Cluttered Scenes](https://arxiv.org/pdf/1910.14218.pdf)
-    2. [Synergies Between Affordance and Geometry: 6-DoF Grasp Detection via Implicit Representations](https://arxiv.org/pdf/2104.01542.pdf)
+    - [S4G: Amodal Single-view Single-Shot SE(3) Grasp Detection in Cluttered Scenes](https://arxiv.org/pdf/1910.14218.pdf)
+    - [Synergies Between Affordance and Geometry: 6-DoF Grasp Detection via Implicit Representations](https://arxiv.org/pdf/2104.01542.pdf)
     
 - Survey
-    1. [Robotic Grasping from Classical to Modern: A Survey](https://arxiv.org/pdf/2202.03631.pdf)
-    2. [Deep Learning Approaches to Grasp Synthesis: A Review](https://arxiv.org/pdf/2207.02556.pdf)
-    3. [Vision‑based robotic grasping from object localization, object pose estimation to grasp estimation for parallel grippers: a review](https://link.springer.com/content/pdf/10.1007/s10462-020-09888-5.pdf)
+    - [Robotic Grasping from Classical to Modern: A Survey](https://arxiv.org/pdf/2202.03631.pdf)
+    - [Deep Learning Approaches to Grasp Synthesis: A Review](https://arxiv.org/pdf/2207.02556.pdf)
+    - [Vision‑based robotic grasping from object localization, object pose estimation to grasp estimation for parallel grippers: a review](https://link.springer.com/content/pdf/10.1007/s10462-020-09888-5.pdf)
 
 **Grasp Quality Metrics**
 
 - Combined metrics
-    1. [Characterisation of Grasp Quality Metrics](http://repositori.uji.es/xmlui/bitstream/handle/10234/168278/rubert_2017.pdf;jsessionid=20C8040BDAD3A1F806E56730E54A5FB9?sequence=1)
-    2. [Grasp success prediction with quality metrics](https://arxiv.org/pdf/1809.03276v1.pdf)
+    - [Characterisation of Grasp Quality Metrics](http://repositori.uji.es/xmlui/bitstream/handle/10234/168278/rubert_2017.pdf;jsessionid=20C8040BDAD3A1F806E56730E54A5FB9?sequence=1)
+    - [Grasp success prediction with quality metrics](https://arxiv.org/pdf/1809.03276v1.pdf)
 
 **ToDo Lists**
 - [x] Divide subsection for different approaches in *6D Grasp Pose Detection*
