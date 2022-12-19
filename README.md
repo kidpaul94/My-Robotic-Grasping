@@ -14,6 +14,7 @@ This repositry is for saving collection of papers related to computer vision (CV
     - [Discriminater focused](#discriminater-focused)
     - [Regression focused](#discriminater-focused)
     - [Survey](#survey)
+    - [Datasets](#datasets)
 - [Grasp Quality Metrics](#datasets)
     - [Combined metrics](#combined-metrics)
 - [ToDo Lists](#todo-lists)
@@ -81,6 +82,9 @@ This repositry is for saving collection of papers related to computer vision (CV
 - [Robotic Grasping from Classical to Modern: A Survey](https://arxiv.org/pdf/2202.03631.pdf)
 - [Deep Learning Approaches to Grasp Synthesis: A Review](https://arxiv.org/pdf/2207.02556.pdf)
 - [Vision‑based robotic grasping from object localization, object pose estimation to grasp estimation for parallel grippers: a review](https://link.springer.com/content/pdf/10.1007/s10462-020-09888-5.pdf)
+
+### Datasets
+- [GraspNet](https://graspnet.net/index.html)
 
 ## Grasp Quality Metrics
 
