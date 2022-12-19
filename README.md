@@ -6,15 +6,15 @@ This repositry is for saving collection of papers related to computer vision (CV
 - [6D Object Pose Estimation](#6d-object-pose-estimation)
     - [RGB based](#rgb-based)
     - [RGB-D based](#rgb-d-based)
-    - [Survey](#survey)
-    - [Datasets](#datasets)
+    - [Survey (OPE)](#survey-ope)
+    - [Datasets (OPE)](#datasets-ope)
 - [6D Grasp Pose Detection](#6d-grasp-pose-detection)
     - [Sampler focused](#sampler-focused)
     - [Reconstruction focused](#reconstruction-focused)
     - [Discriminater focused](#discriminater-focused)
     - [Regression focused](#discriminater-focused)
-    - [Survey](#survey)
-    - [Datasets](#datasets)
+    - [Survey (GPD)](#survey-gpd)
+    - [Datasets (GPD)](#datasets-gpd)
 - [Grasp Quality Metrics](#grasp-quality-metrics)
     - [Combined metrics](#combined-metrics)
 - [ToDo Lists](#todo-lists)
@@ -44,10 +44,10 @@ This repositry is for saving collection of papers related to computer vision (CV
 - [Unseen Object 6D Pose Estimation: A Benchmark and Baselines](https://arxiv.org/pdf/2206.11808.pdf)
 - [SO(3)-Pose: SO(3)-Equivariance Learning for 6D Object Pose Estimation](https://arxiv.org/pdf/2208.08338v1.pdf)
 
-### Survey
+### Survey (OPE)
 - [Pose Estimation of Specific Rigid Objects](https://arxiv.org/pdf/2112.15075.pdf)
 
-### Datasets
+### Datasets (OPE)
 - [BOP: Benchmark for 6D Object Pose Estimation](https://bop.felk.cvut.cz/datasets/)
   
 ## 6D Grasp Pose Detection
@@ -78,12 +78,12 @@ This repositry is for saving collection of papers related to computer vision (CV
 - [S4G: Amodal Single-view Single-Shot SE(3) Grasp Detection in Cluttered Scenes](https://arxiv.org/pdf/1910.14218.pdf)
 - [Synergies Between Affordance and Geometry: 6-DoF Grasp Detection via Implicit Representations](https://arxiv.org/pdf/2104.01542.pdf)
     
-### Survey
+### Survey (GPD)
 - [Robotic Grasping from Classical to Modern: A Survey](https://arxiv.org/pdf/2202.03631.pdf)
 - [Deep Learning Approaches to Grasp Synthesis: A Review](https://arxiv.org/pdf/2207.02556.pdf)
 - [Vision‑based robotic grasping from object localization, object pose estimation to grasp estimation for parallel grippers: a review](https://link.springer.com/content/pdf/10.1007/s10462-020-09888-5.pdf)
 
-### Datasets
+### Datasets (GPD)
 - [GraspNet](https://graspnet.net/index.html)
 
 ## Grasp Quality Metrics
