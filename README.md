@@ -15,7 +15,7 @@ This repositry is for saving collection of papers related to computer vision (CV
     - [Regression focused](#discriminater-focused)
     - [Survey](#survey)
     - [Datasets](#datasets)
-- [Grasp Quality Metrics](#datasets)
+- [Grasp Quality Metrics](#grasp-quality-metrics)
     - [Combined metrics](#combined-metrics)
 - [ToDo Lists](#todo-lists)
 
