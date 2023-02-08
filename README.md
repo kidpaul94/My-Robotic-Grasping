@@ -70,6 +70,7 @@ This repositry is for saving collection of papers related to computer vision (CV
 
 ### Discriminater focused
 - [PointNetGPD: Detecting Grasp Configurations from Point Sets](https://web.cs.ucla.edu/~xm/file/pointnetgpd_icra19.pdf)
+- [Grasp Quality Evaluation Network for Surface-to-Surface Contacts in Point Clouds](https://ieeexplore.ieee.org/document/9216808)
 - [Collision-Aware Target-Driven Object Grasping in Constrained Environments](https://arxiv.org/pdf/2104.00776.pdf)
 - [GPR: Grasp Pose Refinement Network for Cluttered Scenes](https://arxiv.org/pdf/2105.08502.pdf)
 - [Simultaneous Semantic and Collision Learning for 6-DoF Grasp Pose Estimation](https://arxiv.org/pdf/2108.02425.pdf)
