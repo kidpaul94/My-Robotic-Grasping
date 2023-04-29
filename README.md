@@ -33,6 +33,7 @@ This repositry is for saving collection of papers related to computer vision (CV
 - [EPOS: Estimating 6D Pose of Objects with Symmetries](https://arxiv.org/pdf/2004.00605v1.pdf)
 - [HybridPose: 6D Object Pose Estimation under Hybrid Representations](https://arxiv.org/pdf/2001.01869.pdf)
 - [EfficientPose: An efficient, accurate and scalable end-to-end 6D multi object pose estimation approach](https://arxiv.org/pdf/2011.04307v2.pdf)
+- [EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation](https://arxiv.org/pdf/2303.12787v2.pdf)
   
 ### RGB-D based
 - [SegICP: Integrated Deep Semantic Segmentation and Pose Estimation](https://arxiv.org/pdf/1703.01661.pdf)
