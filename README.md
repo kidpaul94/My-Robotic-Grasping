@@ -53,7 +53,7 @@ This repositry is for saving papers related to CV- & geometry-based 6DOF robotic
   
 ## 6D Grasp Pose Detection
 
-### Sampler focused
+### Sampling focused
 - [6-DOF GraspNet: Variational Grasp Generation for Object Manipulation](https://arxiv.org/pdf/1905.10520.pdf)
 - [UniGrasp: Learning a Unified Model to Grasp with Multifingered Robotic Hands](https://arxiv.org/pdf/1910.10900.pdf)
 - [6-DOF Grasping for Target-driven Object Manipulation in Clutter](https://arxiv.org/pdf/1912.03628.pdf)
@@ -69,7 +69,7 @@ This repositry is for saving papers related to CV- & geometry-based 6DOF robotic
 ### Reconstruction focused
 - [Robotic Grasping through Combined Image-Based Grasp Proposal and 3D Reconstruction](https://arxiv.org/pdf/2003.01649.pdf)
 
-### Discriminater focused
+### Discriminating focused
 - [Grasp Pose Detection in Point Clouds](https://arxiv.org/pdf/1706.09911.pdf)
 - [PointNetGPD: Detecting Grasp Configurations from Point Sets](https://web.cs.ucla.edu/~xm/file/pointnetgpd_icra19.pdf)
 - [Grasp Quality Evaluation Network for Surface-to-Surface Contacts in Point Clouds](https://ieeexplore.ieee.org/document/9216808)
