@@ -1,5 +1,5 @@
-# 6DOF Robot Grasping
-This repositry is for saving collection of papers related to computer vision (CV) & geometry based 6DOF robot grasping. We only collect methods using RGB/RGB-D with Deep Learning. Note that grasp pose detection related papers are **ROUGHLY** divided based on their approaches. The list below will be updated in regular basis. 
+# My Robotic Grasping
+This repositry is for saving papers related to CV- & geometry-based 6DOF robotic grasping. We **MAINLY** collect methods utilizing Deep Learning. Note that grasp pose detection related papers are **ROUGHLY** divided based on their approaches. The list below will be updated in regular basis. 
 
 ## Table of Contents
 
@@ -55,6 +55,7 @@ This repositry is for saving collection of papers related to computer vision (CV
 
 ### Sampler focused
 - [6-DOF GraspNet: Variational Grasp Generation for Object Manipulation](https://arxiv.org/pdf/1905.10520.pdf)
+- [UniGrasp: Learning a Unified Model to Grasp with Multifingered Robotic Hands](https://arxiv.org/pdf/1910.10900.pdf)
 - [6-DOF Grasping for Target-driven Object Manipulation in Clutter](https://arxiv.org/pdf/1912.03628.pdf)
 - [GraspNet-1Billion: A Large-Scale Benchmark for General Object Grasping](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fang_GraspNet-1Billion_A_Large-Scale_Benchmark_for_General_Object_Grasping_CVPR_2020_paper.pdf)
 - [Volumetric Grasping Network: Real-time 6 DOF Grasp Detection in Clutter](https://arxiv.org/pdf/2101.01132.pdf)
@@ -64,12 +65,12 @@ This repositry is for saving collection of papers related to computer vision (CV
 - [Efficient and Accurate Candidate Generation for Grasp Pose Detection in SE(3)](https://arxiv.org/pdf/2204.01131.pdf)
 - [REGNet: REgion-based Grasp Network for End-to-end Grasp Detection in Point Clouds](https://arxiv.org/pdf/2002.12647.pdf)
 - [Hybrid Physical Metric For 6-DoF Grasp Pose Detection](https://arxiv.org/pdf/2206.11141.pdf)
-    
-    
+
 ### Reconstruction focused
 - [Robotic Grasping through Combined Image-Based Grasp Proposal and 3D Reconstruction](https://arxiv.org/pdf/2003.01649.pdf)
 
 ### Discriminater focused
+- [Grasp Pose Detection in Point Clouds](https://arxiv.org/pdf/1706.09911.pdf)
 - [PointNetGPD: Detecting Grasp Configurations from Point Sets](https://web.cs.ucla.edu/~xm/file/pointnetgpd_icra19.pdf)
 - [Grasp Quality Evaluation Network for Surface-to-Surface Contacts in Point Clouds](https://ieeexplore.ieee.org/document/9216808)
 - [Collision-Aware Target-Driven Object Grasping in Constrained Environments](https://arxiv.org/pdf/2104.00776.pdf)
