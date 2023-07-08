@@ -66,7 +66,9 @@ This repositry is for saving papers related to CV- & geometry-based 6DOF robotic
 - [Hybrid Physical Metric For 6-DoF Grasp Pose Detection](https://arxiv.org/pdf/2206.11141.pdf)
 
 ### Reconstruction methods
+- [Data-Efficient Learning for Sim-to-Real Robotic Grasping using Deep Point Cloud Prediction Networks](https://arxiv.org/pdf/1906.08989.pdf)
 - [Robotic Grasping through Combined Image-Based Grasp Proposal and 3D Reconstruction](https://arxiv.org/pdf/2003.01649.pdf)
+- [Amodal 3D Reconstruction for Robotic Manipulation via Stability and Connectivity](https://arxiv.org/pdf/2009.13146.pdf)
 - [Volumetric Grasping Network: Real-time 6 DOF Grasp Detection in Clutter](https://arxiv.org/pdf/2101.01132.pdf)
 
 ### Discriminative methods
