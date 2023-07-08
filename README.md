@@ -9,10 +9,10 @@ This repositry is for saving papers related to CV- & geometry-based 6DOF robotic
     - [Survey (OPE)](#survey-ope)
     - [Datasets (OPE)](#datasets-ope)
 - [6D Grasp Pose Detection](#6d-grasp-pose-detection)
-    - [Sampler focused](#sampler-focused)
-    - [Reconstruction focused](#reconstruction-focused)
-    - [Discriminater focused](#discriminater-focused)
-    - [Regression focused](#discriminater-focused)
+    - [Generative methods](#generative-methods)
+    - [Reconstruction methods](#reconstruction-methods)
+    - [Discriminative methods](#discriminative-methods)
+    - [Regression methods](#regression-methods)
     - [Survey (GPD)](#survey-gpd)
     - [Datasets (GPD)](#datasets-gpd)
 - [Grasp Quality Metrics](#grasp-quality-metrics)
@@ -69,7 +69,7 @@ This repositry is for saving papers related to CV- & geometry-based 6DOF robotic
 - [Robotic Grasping through Combined Image-Based Grasp Proposal and 3D Reconstruction](https://arxiv.org/pdf/2003.01649.pdf)
 - [Volumetric Grasping Network: Real-time 6 DOF Grasp Detection in Clutter](https://arxiv.org/pdf/2101.01132.pdf)
 
-### Discriminating methods
+### Discriminative methods
 - [Grasp Pose Detection in Point Clouds](https://arxiv.org/pdf/1706.09911.pdf)
 - [PointNetGPD: Detecting Grasp Configurations from Point Sets](https://web.cs.ucla.edu/~xm/file/pointnetgpd_icra19.pdf)
 - [Grasp Quality Evaluation Network for Surface-to-Surface Contacts in Point Clouds](https://ieeexplore.ieee.org/document/9216808)
