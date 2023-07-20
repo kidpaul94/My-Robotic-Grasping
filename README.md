@@ -98,4 +98,5 @@ This repositry is for saving papers related to CV- & geometry-based 6DOF robotic
 - [Grasp success prediction with quality metrics](https://arxiv.org/pdf/1809.03276v1.pdf)
 
 ## ToDo Lists
-- [x] Divide subsection for different approaches in *6D Grasp Pose Detection*
+| Categorization of approaches in *6D Grasp Pose Detection* | ![Progress](https://progress-bar.dev/100) |
+| --- | --- |
