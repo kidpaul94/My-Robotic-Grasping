@@ -6,6 +6,7 @@ This repositry is for saving papers related to CV- & geometry-based 6DOF robotic
 - [6D Object Pose Estimation](#6d-object-pose-estimation)
     - [RGB based](#rgb-based)
     - [RGB-D based](#rgb-d-based)
+    - [Towards Generalization](#towards-generalization)
     - [Survey (OPE)](#survey-ope)
     - [Datasets (OPE)](#datasets-ope)
 - [6D Grasp Pose Detection](#6d-grasp-pose-detection)
@@ -33,7 +34,7 @@ This repositry is for saving papers related to CV- & geometry-based 6DOF robotic
 - [EPOS: Estimating 6D Pose of Objects with Symmetries](https://arxiv.org/pdf/2004.00605v1.pdf)
 - [HybridPose: 6D Object Pose Estimation under Hybrid Representations](https://arxiv.org/pdf/2001.01869.pdf)
 - [EfficientPose: An efficient, accurate and scalable end-to-end 6D multi object pose estimation approach](https://arxiv.org/pdf/2011.04307v2.pdf)
-- [EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation](https://arxiv.org/pdf/2303.12787v2.pdf)
+- [ZebraPose: Coarse to Fine Surface Encoding for 6DoF Object Pose Estimation](https://openaccess.thecvf.com/content/CVPR2022/papers/Su_ZebraPose_Coarse_To_Fine_Surface_Encoding_for_6DoF_Object_Pose_CVPR_2022_paper.pdf)
   
 ### RGB-D based
 - [SegICP: Integrated Deep Semantic Segmentation and Pose Estimation](https://arxiv.org/pdf/1703.01661.pdf)
@@ -44,6 +45,17 @@ This repositry is for saving papers related to CV- & geometry-based 6DOF robotic
 - [FFB6D: A Full Flow Bidirectional Fusion Network for 6D Pose Estimation](https://arxiv.org/pdf/2103.02242.pdf)
 - [Unseen Object 6D Pose Estimation: A Benchmark and Baselines](https://arxiv.org/pdf/2206.11808.pdf)
 - [SO(3)-Pose: SO(3)-Equivariance Learning for 6D Object Pose Estimation](https://arxiv.org/pdf/2208.08338v1.pdf)
+
+### Towards Generalization
+
+Researchers have recently started to investigate methods to make 6D Object Pose Estimation more generalizable. As approaches to enhance generalizability vary, we separated the list from the RGB- and RGBD-based approaches above. A lot of generalizable 6D Object Pose Estimation approaches (#-shot) are multi-stages, and utilize template matching (e.g., support images and CAD models) + classification that NNs are good at.
+
+- [EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation](https://arxiv.org/pdf/2303.12787v2.pdf)
+- [OnePose: One-Shot Object Pose Estimation without CAD Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_OnePose_One-Shot_Object_Pose_Estimation_Without_CAD_Models_CVPR_2022_paper.pdf)
+- [Templates for 3D Object Pose Estimation Revisited: Generalization to New Objects and Robustness to Occlusions](https://openaccess.thecvf.com/content/CVPR2022/papers/Nguyen_Templates_for_3D_Object_Pose_Estimation_Revisited_Generalization_to_New_CVPR_2022_paper.pdf)
+- [OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models](https://proceedings.neurips.cc/paper_files/paper/2022/file/e43f900f571de6c96a70d5724a0fb565-Paper-Conference.pdf)
+- [POPE: 6-DoF Promptable Pose Estimation of Any Object, in Any Scene, with One Reference](https://arxiv.org/pdf/2305.15727.pdf)
+- [Learning to Estimate 6DoF Pose from Limited Data: A Few-Shot, Generalizable Approach using RGB Images](https://arxiv.org/pdf/2306.07598.pdf)
 
 ### Survey (OPE)
 - [Pose Estimation of Specific Rigid Objects](https://arxiv.org/pdf/2112.15075.pdf)
