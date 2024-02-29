@@ -38,7 +38,6 @@ This repositry is for saving papers related to CV- & geometry-based 6DOF robotic
   
 ### RGB-D based
 - [SegICP: Integrated Deep Semantic Segmentation and Pose Estimation](https://arxiv.org/pdf/1703.01661.pdf)
-- [Drost-PPF: Going Further with Point Pair Features](https://arxiv.org/pdf/1711.04061.pdf)
 - [DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion](https://arxiv.org/pdf/1901.04780.pdf)
 - [PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation](https://arxiv.org/pdf/1911.04231.pdf)
 - [MaskUKF: An Instance Segmentation Aided Unscented Kalman Filter for 6D Object Pose and Velocity Tracking](https://www.frontiersin.org/articles/10.3389/frobt.2021.594583/full)
