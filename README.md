@@ -42,6 +42,8 @@ This repositry is for saving papers related to CV- & geometry-based 6DOF robotic
 - [PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation](https://arxiv.org/pdf/1911.04231.pdf)
 - [MaskUKF: An Instance Segmentation Aided Unscented Kalman Filter for 6D Object Pose and Velocity Tracking](https://www.frontiersin.org/articles/10.3389/frobt.2021.594583/full)
 - [FFB6D: A Full Flow Bidirectional Fusion Network for 6D Pose Estimation](https://arxiv.org/pdf/2103.02242.pdf)
+- [Multi-path Learning for Object Pose Estimation Across Domains](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sundermeyer_Multi-Path_Learning_for_Object_Pose_Estimation_Across_Domains_CVPR_2020_paper.pdf)
+- [StablePose: Learning 6D Object Poses from Geometrically Stable Patches](https://openaccess.thecvf.com/content/CVPR2021/papers/Shi_StablePose_Learning_6D_Object_Poses_From_Geometrically_Stable_Patches_CVPR_2021_paper.pdf)
 - [Unseen Object 6D Pose Estimation: A Benchmark and Baselines](https://arxiv.org/pdf/2206.11808.pdf)
 - [SO(3)-Pose: SO(3)-Equivariance Learning for 6D Object Pose Estimation](https://arxiv.org/pdf/2208.08338v1.pdf)
 
@@ -55,6 +57,7 @@ Researchers have recently started to investigate methods to make 6D Object Pose 
 - [OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models](https://proceedings.neurips.cc/paper_files/paper/2022/file/e43f900f571de6c96a70d5724a0fb565-Paper-Conference.pdf)
 - [POPE: 6-DoF Promptable Pose Estimation of Any Object, in Any Scene, with One Reference](https://arxiv.org/pdf/2305.15727.pdf)
 - [Learning to Estimate 6DoF Pose from Limited Data: A Few-Shot, Generalizable Approach using RGB Images](https://arxiv.org/pdf/2306.07598.pdf)
+- [OVE6D: Object Viewpoint Encoding for Depth-based 6D Object Pose Estimation](https://openaccess.thecvf.com/content/CVPR2022/papers/Cai_OVE6D_Object_Viewpoint_Encoding_for_Depth-Based_6D_Object_Pose_Estimation_CVPR_2022_paper.pdf)
 
 ### Survey (OPE)
 - [Pose Estimation of Specific Rigid Objects](https://arxiv.org/pdf/2112.15075.pdf)
