@@ -105,7 +105,7 @@ Researchers have recently started to investigate methods to make 6D Object Pose 
 
 Researchers have recently started to investigate methods utilizing Neural Radiance Field (NeRF) and Implicit Neural Representation (INR). We separate these approaches as a new category of methods since they more focus on novel representation and sampling for robotic grasping. 
 
-- [Neural Descriptor Fields:SE(3)-Equivariant Object Representations for Manipulation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812146)
+- [Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812146)
 - [NeuralGrasps: Learning Implicit Representations for Grasps of Multiple Robotic Hands](https://proceedings.mlr.press/v205/khargonkar23a/khargonkar23a.pdf) 
 - [Neural Grasp Distance Fields for Robot Manipulation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10160217)
 
