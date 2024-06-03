@@ -14,6 +14,7 @@ This repositry is for saving papers related to CV- & geometry-based 6DOF robotic
     - [Reconstruction methods](#reconstruction-methods)
     - [Discriminative methods](#discriminative-methods)
     - [Regression methods](#regression-methods)
+    - [Implicit Representation methods](#implicit-representation-methods)
     - [Survey (GPD)](#survey-gpd)
     - [Datasets (GPD)](#datasets-gpd)
 - [Grasp Quality Metrics](#grasp-quality-metrics)
@@ -73,12 +74,14 @@ Researchers have recently started to investigate methods to make 6D Object Pose 
 - [6-DOF Grasping for Target-driven Object Manipulation in Clutter](https://arxiv.org/pdf/1912.03628.pdf)
 - [Graspness Discovery in Clutters for Fast and Accurate Grasp Detection](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Graspness_Discovery_in_Clutters_for_Fast_and_Accurate_Grasp_Detection_ICCV_2021_paper.pdf)
 - [Efficient and Accurate Candidate Generation for Grasp Pose Detection in SE(3)](https://arxiv.org/pdf/2204.01131.pdf)
+- [UniDexGrasp: Universal Robotic Dexterous Graspingvia Learning Diverse Proposal Generation and Goal-Conditioned Policy](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_UniDexGrasp_Universal_Robotic_Dexterous_Grasping_via_Learning_Diverse_Proposal_Generation_CVPR_2023_paper.pdf)
 
 ### Reconstruction methods
 - [Data-Efficient Learning for Sim-to-Real Robotic Grasping using Deep Point Cloud Prediction Networks](https://arxiv.org/pdf/1906.08989.pdf)
 - [Robotic Grasping through Combined Image-Based Grasp Proposal and 3D Reconstruction](https://arxiv.org/pdf/2003.01649.pdf)
 - [Amodal 3D Reconstruction for Robotic Manipulation via Stability and Connectivity](https://arxiv.org/pdf/2009.13146.pdf)
 - [Volumetric Grasping Network: Real-time 6 DOF Grasp Detection in Clutter](https://arxiv.org/pdf/2101.01132.pdf)
+- [GraspNeRF: Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeR](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10160842)
 
 ### Discriminative methods
 - [Grasp Pose Detection in Point Clouds](https://arxiv.org/pdf/1706.09911.pdf)
@@ -87,6 +90,7 @@ Researchers have recently started to investigate methods to make 6D Object Pose 
 - [Collision-Aware Target-Driven Object Grasping in Constrained Environments](https://arxiv.org/pdf/2104.00776.pdf)
 - [GPR: Grasp Pose Refinement Network for Cluttered Scenes](https://arxiv.org/pdf/2105.08502.pdf)
 - [Simultaneous Semantic and Collision Learning for 6-DoF Grasp Pose Estimation](https://arxiv.org/pdf/2108.02425.pdf)
+- [DefGraspNets: Grasp Planning on 3D Fields with Graph Neural Nets](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10160986)
 
 ### Regression methods
 - [S4G: Amodal Single-view Single-Shot SE(3) Grasp Detection in Cluttered Scenes](https://arxiv.org/pdf/1910.14218.pdf)
@@ -96,7 +100,11 @@ Researchers have recently started to investigate methods to make 6D Object Pose 
 - [RGB Matters: Learning 7-DoF Grasp Poses on Monocular RGBD Images](https://arxiv.org/pdf/2103.02184.pdf)
 - [REGNet: REgion-based Grasp Network for End-to-end Grasp Detection in Point Clouds](https://arxiv.org/pdf/2002.12647.pdf)
 - [Hybrid Physical Metric For 6-DoF Grasp Pose Detection](https://arxiv.org/pdf/2206.11141.pdf)
-    
+
+### Implicit Representation methods
+- [NeuralGrasps: Learning Implicit Representations for Grasps of Multiple Robotic Hands](https://proceedings.mlr.press/v205/khargonkar23a/khargonkar23a.pdf) 
+- [Neural Grasp Distance Fields for Robot Manipulation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10160217)
+
 ### Survey (GPD)
 - [Robotic Grasping from Classical to Modern: A Survey](https://arxiv.org/pdf/2202.03631.pdf)
 - [Deep Learning Approaches to Grasp Synthesis: A Review](https://arxiv.org/pdf/2207.02556.pdf)
