@@ -14,7 +14,7 @@ This repositry is for saving papers related to CV- & geometry-based 6DOF robotic
     - [Reconstruction methods](#reconstruction-methods)
     - [Discriminative methods](#discriminative-methods)
     - [Regression methods](#regression-methods)
-    - [Implicit Representation methods](#implicit-representation-methods)
+    - [Neural Representation methods](#neural-representation-methods)
     - [Survey (GPD)](#survey-gpd)
     - [Datasets (GPD)](#datasets-gpd)
 - [Grasp Quality Metrics](#grasp-quality-metrics)
@@ -81,7 +81,7 @@ Researchers have recently started to investigate methods to make 6D Object Pose 
 - [Robotic Grasping through Combined Image-Based Grasp Proposal and 3D Reconstruction](https://arxiv.org/pdf/2003.01649.pdf)
 - [Amodal 3D Reconstruction for Robotic Manipulation via Stability and Connectivity](https://arxiv.org/pdf/2009.13146.pdf)
 - [Volumetric Grasping Network: Real-time 6 DOF Grasp Detection in Clutter](https://arxiv.org/pdf/2101.01132.pdf)
-- [GraspNeRF: Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeR](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10160842)
+- [GraspNeRF: Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10160842)
 
 ### Discriminative methods
 - [Grasp Pose Detection in Point Clouds](https://arxiv.org/pdf/1706.09911.pdf)
@@ -101,7 +101,11 @@ Researchers have recently started to investigate methods to make 6D Object Pose 
 - [REGNet: REgion-based Grasp Network for End-to-end Grasp Detection in Point Clouds](https://arxiv.org/pdf/2002.12647.pdf)
 - [Hybrid Physical Metric For 6-DoF Grasp Pose Detection](https://arxiv.org/pdf/2206.11141.pdf)
 
-### Implicit Representation methods
+### Neural Representation methods
+
+Researchers have recently started to investigate methods utilizing Neural Radiance Field (NeRF) and Implicit Neural Representation (INR). We separate these approaches as a new category of methods since they more focus on novel representation and sampling for robotic grasping. 
+
+- [Neural Descriptor Fields:SE(3)-Equivariant Object Representations for Manipulation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812146)
 - [NeuralGrasps: Learning Implicit Representations for Grasps of Multiple Robotic Hands](https://proceedings.mlr.press/v205/khargonkar23a/khargonkar23a.pdf) 
 - [Neural Grasp Distance Fields for Robot Manipulation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10160217)
 
