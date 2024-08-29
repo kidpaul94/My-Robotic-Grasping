@@ -59,6 +59,8 @@ Researchers have recently started to investigate methods to make 6D Object Pose 
 - [POPE: 6-DoF Promptable Pose Estimation of Any Object, in Any Scene, with One Reference](https://arxiv.org/pdf/2305.15727.pdf)
 - [Learning to Estimate 6DoF Pose from Limited Data: A Few-Shot, Generalizable Approach using RGB Images](https://arxiv.org/pdf/2306.07598.pdf)
 - [OVE6D: Object Viewpoint Encoding for Depth-based 6D Object Pose Estimation](https://openaccess.thecvf.com/content/CVPR2022/papers/Cai_OVE6D_Object_Viewpoint_Encoding_for_Depth-Based_6D_Object_Pose_Estimation_CVPR_2022_paper.pdf)
+- [GigaPose: Fast and Robust Novel Object Pose Estimation via One Correspondence](https://openaccess.thecvf.com/content/CVPR2024/papers/Nguyen_GigaPose_Fast_and_Robust_Novel_Object_Pose_Estimation_via_One_CVPR_2024_paper.pdf)
+- [SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_SAM-6D_Segment_Anything_Model_Meets_Zero-Shot_6D_Object_Pose_Estimation_CVPR_2024_paper.pdf)
 
 ### Survey (OPE)
 - [Pose Estimation of Specific Rigid Objects](https://arxiv.org/pdf/2112.15075.pdf)
