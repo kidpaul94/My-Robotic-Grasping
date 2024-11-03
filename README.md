@@ -122,7 +122,7 @@ Researchers have recently started to investigate methods utilizing Neural Radian
 ## Grasp Quality Metrics
 
 ### Combined metrics
-- [Characterisation of Grasp Quality Metrics](http://repositori.uji.es/xmlui/bitstream/handle/10234/168278/rubert_2017.pdf;jsessionid=20C8040BDAD3A1F806E56730E54A5FB9?sequence=1)
+- [Characterisation of Grasp Quality Metrics](https://link.springer.com/article/10.1007/s10846-017-0562-1)
 - [Grasp success prediction with quality metrics](https://arxiv.org/pdf/1809.03276v1.pdf)
 
 ## ToDo Lists
