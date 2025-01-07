@@ -126,5 +126,5 @@ Researchers have recently started to investigate methods utilizing Neural Radian
 - [Grasp success prediction with quality metrics](https://arxiv.org/pdf/1809.03276v1.pdf)
 
 ## ToDo Lists
-| Categorization of approaches in *6D Grasp Pose Detection* | ![Progress](https://progress-bar.dev/100) |
+| Categorization of approaches in *6D Grasp Pose Detection* | ![Progress](https://geps.dev/progress/100) |
 | --- | --- |
