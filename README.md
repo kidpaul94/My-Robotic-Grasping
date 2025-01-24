@@ -93,6 +93,7 @@ Researchers have recently started to investigate methods to make 6D Object Pose 
 - [GPR: Grasp Pose Refinement Network for Cluttered Scenes](https://arxiv.org/pdf/2105.08502.pdf)
 - [Simultaneous Semantic and Collision Learning for 6-DoF Grasp Pose Estimation](https://arxiv.org/pdf/2108.02425.pdf)
 - [DefGraspNets: Grasp Planning on 3D Fields with Graph Neural Nets](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10160986)
+- [GraspMixer: Hybrid of Contact Surface Sampling and Grasp Feature Mixing for Grasp Synthesis](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10843724)
 
 ### Regression methods
 - [S4G: Amodal Single-view Single-Shot SE(3) Grasp Detection in Cluttered Scenes](https://arxiv.org/pdf/1910.14218.pdf)
